@@ -4,25 +4,15 @@ Nice to meet you, I'm Shivam Mahajan
 
 ## Who Am I? 🤠
 
-- 🤓 Self taught Developer 
-- 👩‍💻 Working on Web Development 
-- 📝 Writing Words , Writing Code
-- 🎯 Goal : To be MERN Developer 
-- 💌 Fun Facts : 
-    - I read , read & read 😅
-    - Being foodie panda 🐼
+- I’m a passionate Competitive Programmer and 💻Web Developer 🚀 
+- I'm Microsoft Imagine Cup India Finalist
+- I'm Technical Content Writer at GeeksforGeeks
+  Look at my articles - https://auth.geeksforgeeks.org/user/shivamcse23/articles
+- I'm 3 star at codechef
 
 ## My Weapons 🌟
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivammahajancse&theme=react)](https://github.com/shivammahajancse/github-readme-stats)
-
-## Other Shields 🛡
- * C/C++
- * Python
- * React Native
- * Knowledge of ML 
-
- <br />
  
 ## Github Status 🏆
 
@@ -35,17 +25,15 @@ Nice to meet you, I'm Shivam Mahajan
 
 <p align="center">Wanna Know me More?</p>
 
-<p align="center">
  
-<a href="https://twitter.com/shivammahajancse">
+<a href="https://twitter.com/Shivam_MHJN">
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
 
-<a href="https://www.instagram.com/tidbits.js">
+<a href="https://www.instagram.com/shivammahajan44/">
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a>  
 
-<a href="https://www.linkedin.com/in/sujata-gunale-15964b166/">
+<a href="https://www.linkedin.com/in/shivam-mahajan-1bb5141aa/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
 
-</p>
 
 <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=shivammahajancse.shivammahajancse" alt="shivammahajancse :: Visitor's Count" /></p>
