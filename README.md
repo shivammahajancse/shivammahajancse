@@ -26,15 +26,15 @@ Nice to meet you, I'm Shivam Mahajan
 <p align="center">Wanna Know me More?</p>
 
 <p align="center">
- 
-<a href="https://twitter.com/Shivam_MHJN">
-<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
+  
+<a href="https://www.linkedin.com/in/shivam-mahajan-1bb5141aa/">
+<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>  
 
 <a href="https://www.instagram.com/shivammahajan44/">
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a>  
 
-<a href="https://www.linkedin.com/in/shivam-mahajan-1bb5141aa/">
-<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
+<a href="https://twitter.com/Shivam_MHJN">
+<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
 
 </p>
 
