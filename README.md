@@ -25,6 +25,7 @@ Nice to meet you, I'm Shivam Mahajan
 
 <p align="center">Wanna Know me More?</p>
 
+<p align="center">
  
 <a href="https://twitter.com/Shivam_MHJN">
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
@@ -35,5 +36,6 @@ Nice to meet you, I'm Shivam Mahajan
 <a href="https://www.linkedin.com/in/shivam-mahajan-1bb5141aa/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
 
+</p>
 
 <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=shivammahajancse.shivammahajancse" alt="shivammahajancse :: Visitor's Count" /></p>
