@@ -8,7 +8,7 @@ Nice to meet you, I'm Shivam Mahajan
 - I'm Microsoft Imagine Cup India Finalist
 - I'm Technical Content Writer at GeeksforGeeks
   Look at my articles - https://auth.geeksforgeeks.org/user/shivamcse23/articles
-- I'm 3 star at codechef
+- I'm 4 star at codechef
 
 ## My Weapons 🌟
 
