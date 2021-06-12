@@ -20,7 +20,6 @@ Nice to meet you, I'm Shivam Mahajan
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=shivammahajancse&theme=react" width="48%" >
 <br>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=shivammahajancse&theme=react-dark)
 <br>
 
 <p align="center">Wanna Know me More?</p>
